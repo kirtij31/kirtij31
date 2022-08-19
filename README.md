@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kirtij31
 - 👀 I’m interested in Programming and Android Development.
-- 🌱 I’m currently learning Cloud Computing.
-- 💞️ I’m looking to collaborate on a software development project or an internship.
+- 💞️ I’m currently looking for a job opportunity as Android Developer.
 - 📫 How to reach me - kirtijain487@gmail.com .
 
 <!---
