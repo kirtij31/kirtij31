@@ -1,2 +1,1 @@
-- 👋 Hi, I’m Kirti Jain
--  I am a Software Engineer, Android Developer and a coding enthusiast
+
